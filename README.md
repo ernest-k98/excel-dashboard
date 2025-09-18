@@ -31,5 +31,5 @@ Dane pochodzą z przykładowego zbioru dotyczącego zakupów klientów.
 ---
 ## 👤 Autor
 Ernest K.  
-🔗 [LinkedIn](https://www.linkedin.com/in/ernest-k98/)  
+🔗 [LinkedIn](www.linkedin.com/in/ernest-krzysik-55257b167)  
 📧 e-mail: ernest.krzysik@onet.pl
